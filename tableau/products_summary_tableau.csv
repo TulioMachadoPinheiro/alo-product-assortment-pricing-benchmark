@@ -1,0 +1,16 @@
+brand,category_standardized,product_count,avg_price,min_price,max_price,category_share_pct
+ALO,Leggings,19,135.58,108,144,22.62
+lululemon,Leggings,23,112.35,98,128,19.66
+Vuori,Leggings,30,109.2,98,128,21.9
+lululemon,Outerwear,23,223.22,128,448,19.66
+Vuori,Outerwear,23,221.48,128,498,16.79
+ALO,Outerwear,15,201.33,128,368,17.86
+ALO,Shorts,15,94.53,64,188,17.86
+lululemon,Shorts,23,73.83,58,98,19.66
+Vuori,Shorts,20,71.1,64,88,14.6
+ALO,Sports Bras,21,81.14,68,98,25.0
+lululemon,Sports Bras,24,63.0,48,98,20.51
+Vuori,Sports Bras,16,62.13,48,68,11.68
+Vuori,Tops,48,82.29,48,188,35.04
+ALO,Tops,14,77.43,58,88,16.67
+lululemon,Tops,24,59.67,38,68,20.51
