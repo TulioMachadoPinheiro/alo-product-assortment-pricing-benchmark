@@ -42,7 +42,7 @@ This dashboard answers:
 - `data_clean/all_brands_products_deduped.csv` – final cleaned and deduplicated dataset
 
 ## Tableau Public
-[View the interactive dashboard here][(PASTE-YOUR-TABLEAU-PUBLIC-LINK-HERE)](https://public.tableau.com/app/profile/tulio.machado.pinheiro/viz/ALOProductAssortmentPricingBenchmarkDashboard/ALOProductAssortmentPricingBenchmarkDashboard?publish=yes)
+[View the interactive dashboard here](https://public.tableau.com/app/profile/tulio.machado.pinheiro/viz/ALOProductAssortmentPricingBenchmarkDashboard/ALOProductAssortmentPricingBenchmarkDashboard?publish=yes)
 
 ## Preview
 Add a screenshot of the dashboard below once uploaded.
