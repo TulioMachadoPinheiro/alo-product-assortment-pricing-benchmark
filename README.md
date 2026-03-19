@@ -45,6 +45,5 @@ This dashboard answers:
 [View the interactive dashboard here](https://public.tableau.com/app/profile/tulio.machado.pinheiro/viz/ALOProductAssortmentPricingBenchmarkDashboard/ALOProductAssortmentPricingBenchmarkDashboard?publish=yes)
 
 ## Preview
-Add a screenshot of the dashboard below once uploaded.
 
 ![Dashboard Preview](dashboard-preview.png)
