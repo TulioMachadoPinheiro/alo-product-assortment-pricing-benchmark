@@ -36,6 +36,14 @@ This dashboard answers:
 - Outerwear is premium across all three brands, though averages are influenced by high-priced outliers.
 - Lululemon appears more balanced across categories, while ALO is more concentrated in core premium categories.
 
+## How to Read the Dashboard
+- **Average Price by Brand** compares overall pricing positioning across ALO, Lululemon, and Vuori.
+- **Average Price by Category** shows where each brand is relatively more premium by product category.
+- **Assortment Depth vs Price** maps each brand-category combination by product count and average price. Each point represents one category within one brand, helping distinguish broader assortments from narrower premium positioning.
+- **Price Distribution by Brand** uses box plots to summarize median prices, spread, and outliers within each brand.
+
+Vuori stands out for its larger Tops assortment, while Outerwear appears highest-priced across all three brands and is more sensitive to outliers.
+
 ## Files
 - `tableau/ALO_Product_Assortment_Pricing.twbx` – Tableau workbook
 - `tableau/products_detail_tableau.csv` – detail-level Tableau dataset
