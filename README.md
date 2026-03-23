@@ -56,3 +56,9 @@ Vuori stands out for its larger Tops assortment, while Outerwear appears highest
 ## Preview
 
 ![Dashboard Preview](dashboard_preview.png)
+
+## Engineering Notes
+- Added scraper execution logging to track row counts by brand and category.
+- Added export logging to record exported versus discarded rows.
+- Added a validation script to check minimum category counts, missing URLs, and invalid prices before generating outputs.
+- Separated reusable SQL logic into standalone `.sql` files for maintainability.
