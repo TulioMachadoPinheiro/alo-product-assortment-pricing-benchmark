@@ -30,10 +30,11 @@ This dashboard answers:
 - Which categories are broader or narrower by brand?
 
 ## Key Findings
-- ALO has the highest average price in the final sample.
+- ALO has the highest average price in the final sample, reinforcing its premium positioning.
 - ALO is especially premium in leggings, shorts, and sports bras.
-- Outerwear is premium across all three brands.
-- Vuori has the broadest tops assortment in the sample.
+- Vuori has the broadest Tops assortment in the sample.
+- Outerwear is premium across all three brands, though averages are influenced by high-priced outliers.
+- Lululemon appears more balanced across categories, while ALO is more concentrated in core premium categories.
 
 ## Files
 - `tableau/ALO_Product_Assortment_Pricing.twbx` – Tableau workbook
@@ -46,4 +47,4 @@ This dashboard answers:
 
 ## Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](dashboard_preview.png)
